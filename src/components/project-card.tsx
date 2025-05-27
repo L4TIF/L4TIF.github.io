@@ -40,6 +40,9 @@ export function ProjectCard({
   links,
   className,
 }: Props) {
+  if (video) {
+    console.log(video);
+  }
   return (
     <Card
       className={
