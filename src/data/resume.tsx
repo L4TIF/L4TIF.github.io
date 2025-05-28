@@ -202,7 +202,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.discordapp.com/attachments/993146863085682690/1376892675097366559/FocuSee_Project_2025-05-27_13-35-55.mp4?ex=6836fabb&is=6835a93b&hm=6d42ac084ea2b09d3f148ffc970fe01b8cc2fd259b0345c84c73bf01ff8376cd&",
+      video: "/videos/aiMocker.mp4",
     },
     {
       title: "WriteSphere",
@@ -232,7 +232,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.discordapp.com/attachments/993146863085682690/1376892674442924042/writeShere.mp4?ex=6836fabb&is=6835a93b&hm=2287a4f5d675ba4847807c513be73e54c43ce8defebb18027c696832f95e5ead&",
+      video: "/videos/writeSphere.mp4",
     },
     {
       title: "ShopEase",
@@ -261,7 +261,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.discordapp.com/attachments/993146863085682690/1376901781975597096/ShopEase.mp4?ex=68370336&is=6835b1b6&hm=70a32c77684a28c24d7bf3f2af02c4113043bc32bb88333c84add136a823b26c&",
+      video: "/videos/ShopEase.mp4",
     },
     {
       title: "CV Builder",
@@ -290,7 +290,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://cdn.discordapp.com/attachments/993146863085682690/1376901781283672214/CV-Builder.mp4?ex=68370336&is=6835b1b6&hm=dd243cf577d86f65acfb6dfce2de66dc2c1306563db34270010c0cc88cb98940&",
+        "/videos/CV-Builder.mp4",
     },
   ],
   // hackathons: [
